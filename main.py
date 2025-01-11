@@ -1,4 +1,4 @@
-import pygame
+import pygame # this one fails to install ((
 from classes.Dashboard import Dashboard
 from classes.Level import Level
 from classes.Menu import Menu
