@@ -1,7 +1,6 @@
 # Finally got it to work by reconfiguring project environment (interpreter).
 # The game is working , needs some improvements.
 
-
 import pygame
 from classes.Dashboard import Dashboard
 from classes.Level import Level
@@ -11,6 +10,7 @@ from entities.Mario import Mario
 
 
 windowSize = 640, 480
+# windowSize = 1280, 1024 # Test, games crashes with this resolution
 
 
 def main():
