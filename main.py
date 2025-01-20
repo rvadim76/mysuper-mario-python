@@ -1,4 +1,8 @@
-import pygame # this one fails to install ((
+# Finally got it to work by reconfiguring project environment (interpreter).
+# The game is working , needs some improvements.
+
+
+import pygame
 from classes.Dashboard import Dashboard
 from classes.Level import Level
 from classes.Menu import Menu
